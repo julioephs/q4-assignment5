@@ -1,8 +1,8 @@
 //variables
 let smallestSize = 10;
 let biggestSize = 20;
-let smallestCoordinate = 10;
-let biggestCoordinate = 350;
+let smallestCoordinate =100;
+let biggestCoordinate = 300;
 
 function setup() {
   createCanvas(400, 400);
